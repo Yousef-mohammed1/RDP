@@ -1,0 +1,5 @@
+- close firewall 
+- press w + r
+- type mmsys.cpl 
+- select recording 
+- enable stereo mix
