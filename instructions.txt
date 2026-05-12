@@ -1,0 +1,9 @@
+- close firewall 
+- press w + r
+ type mmsys.cpl 
+ select recording 
+ enable stereo mix
+- download  jdk 
+link:https://www.oracle.com/java/technologies/downloads/#jdk26-windows
+-download jre
+link:https://www.java.com/en/download/manual.jsp
